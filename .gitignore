@@ -1,0 +1,10 @@
+.git
+.project
+.cproject
+.settings
+Debug/*
+doc/*
+Binaries/*
+Includes/*
+*.launch
+*.mex
